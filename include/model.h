@@ -39,8 +39,9 @@
 
 #include <string>
 #include <map>
-#include <urdf_model/model.h>
+
 #include <tinyxml.h>
+#include <urdf_model/model.h>
 
 namespace urdf{
 

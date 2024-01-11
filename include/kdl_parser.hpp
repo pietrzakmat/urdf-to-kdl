@@ -43,10 +43,10 @@
 #ifndef KDL_PARSER_H
 #define KDL_PARSER_H
 
-#include <kdl/tree.hpp>
 #include <string>
-#include <urdf_model/model.h>
 #include <tinyxml.h>
+#include <kdl/tree.hpp>
+#include "model.h"
 
 namespace kdl_parser{
 
