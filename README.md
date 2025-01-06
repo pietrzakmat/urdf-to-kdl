@@ -20,3 +20,6 @@ Run cmake by passing `-DBUILD_TEST=ON`. It will create an executable which accep
 1. Remove unused methods and class members
 2. replace `std::cout` with `std::cerr` when needed.
 3. add install to cmake
+
+### Changes
+Removed boost dependency
